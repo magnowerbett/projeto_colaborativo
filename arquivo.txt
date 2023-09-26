@@ -1,2 +1,2 @@
-Primeira linha do projeto, no repositório local escrito pelo usuário MagnoWerbett
+Primeira linha do projeto, no repositório local escrito pelo usuário Magno Werbett
 Segunda Linha do Proeto após criação do repositório remoto....
